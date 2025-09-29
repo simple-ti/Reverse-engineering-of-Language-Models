@@ -24,7 +24,8 @@ With the continuous development of language models and the widespread availabili
 ## 🌳 Taxonomy
 
 Our taxonomy follows the structure of our paper, categorizing the reverse engineering of language models into three main areas: **Attack**, **Model Reconstruction**, and **Defense**.
-[intro2.pdf](https://github.com/user-attachments/files/22598529/intro2.pdf)
+<img width="323" height="271" alt="intro2" src="https://github.com/user-attachments/assets/a4e69439-057b-442c-8fc0-cb140933207a" />
+
 
 
 ## Table of Contents
