@@ -13,7 +13,7 @@ If you find our survey or this repository useful in your research, please cite o
 @article{Ti2025Towards,
   title={Towards Reverse Engineering of Language Models: A Survey},
   author={Xinpeng Ti and Wentao Ye and Zhifang Zhang and Junbo Zhao and Chang Yao and Lei Feng and Haobo Wang},
-  journal={[Journal or Conference Name, e.g., arXiv preprint arXiv:XXXX.XXXXX]},
+  journal={EMNLP},
   year={2025}
 }
 ```
@@ -25,7 +25,6 @@ With the continuous development of language models and the widespread availabili
 
 Our taxonomy follows the structure of our paper, categorizing the reverse engineering of language models into three main areas: **Attack**, **Model Reconstruction**, and **Defense**.
 <img width="1345" height="1132" alt="intro2" src="https://github.com/user-attachments/assets/f63c5d3e-cb47-4b1f-9476-ea5def37cc9c" />
-
 
 
 ## Table of Contents
