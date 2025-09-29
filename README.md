@@ -45,7 +45,7 @@ Our taxonomy follows the structure of our paper, categorizing the reverse engine
       - [Detective Defense](#detective-defense)
 
 -----
-## Attack
+## Attack 😇
 
 ### Data Recovery
 
